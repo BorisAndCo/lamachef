@@ -1,3 +1,21 @@
+# Ollama
+.DS_Store
+.vscode
+.env
+.venv
+.swp
+dist
+ollama
+.cache
+*.exe
+.idea
+test_data
+*.crt
+llama/build
+__debug_bin*
+llama/vendor
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
