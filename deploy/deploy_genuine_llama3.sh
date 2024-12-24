@@ -7,6 +7,6 @@ fi
 
 ACTION="$*"
 
-echo "Starting alpine llama 3.2"
-docker-compose -f "dc.alpine_llama" ${ACTION}
+echo "Starting genuine llama3"
+docker compose -f "dc.genuine_llama3.yaml" ${ACTION}
 exit
