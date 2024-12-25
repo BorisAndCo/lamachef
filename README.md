@@ -16,9 +16,14 @@ Stop  with `deply-<image>_<model>.sh down`
 ## Prompt Engineering
 The *prompts* are structured as branches ($b_1,$b_2,$b_{2.2},\ldots,b_n$)
 
-+ b1 *Unique UserChef* (~1min)
-+ b2 *groupUserChef* (~1min for 5 chiefs): too few diversity, redundancy in fusion cooking
-    + b201 *groupUserChef* with long bio (>50 words) and types (~12min for 5 chiefs)
++ UserChef
+    + b1 *Unique UserChef* (~1min)
+    + b2 *groupUserChef* (~1min for 5 chiefs): too few diversity, redundancy in fusion cooking
+        + b201 *groupUserChef* with long bio (>50 words) and types (~12min for 6 chiefs)
+        + b202 *groupUserChef* with shortened bio (>30 words) and French Cuisine (~xxxmin for 5 chiefs)
++ Recipes
+    + b1 *Recipe* (~2min)
+
 
 
 ```py
@@ -47,7 +52,6 @@ UserChef(
 ## Ressources
 + Structuring Outputs from Ollama: https://ollama.com/blog/structured-outputs
 + OpenWebUI, An UI for LLMs: https://docs.openwebui.com/
-
 
 ## Roadmap
 + `ollama` en local
