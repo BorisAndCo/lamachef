@@ -1,0 +1,24 @@
+{
+    "name":"Creamy Spinach Stuffed Chicken Breast",
+    "prepTime":15,
+    "cookTime":30,
+    "description": "A delicious and moist chicken breast stuffed with a creamy spinach filling, perfect for a dinner party or special occasion.",
+    "recipeCategory":"dinner",
+    "recipeCuisine":"French-inspired",
+    "keywords":[
+        "main course",
+        "special occasion",
+        "elegant"
+    ],
+    "recipeIngredient":[
+        "4 boneless, skinless chicken breasts",
+        "1/2 cup fresh spinach leaves",
+        "1/4 cup cream cheese, softened",
+        "1 tablespoon olive oil",
+        "1 teaspoon garlic powder",
+        "Salt and pepper to taste",
+        "1/4 cup grated Parmesan cheese"
+    ],
+    "recipeYield":"This recipe makes 4 servings.",
+    "recipeInstructions": "Preheat oven to 375°F (190°C). Prepare the filling by combining spinach leaves, cream cheese, olive oil, garlic powder, salt, and pepper in a bowl. Mix well until the spinach is evenly distributed throughout the cream cheese mixture. Next, prepare the chicken breasts by slicing them horizontally to create a pocket for the filling. Stuff each breast with the spinach-cream cheese mixture, dividing it evenly among the four breasts. Season the stuffed chicken breasts with salt and pepper to taste. Place the breasts on a baking sheet lined with parchment paper and bake for 30 minutes or until cooked through. Remove from oven and sprinkle Parmesan cheese on top of each breast. Serve hot and enjoy!"
+}
