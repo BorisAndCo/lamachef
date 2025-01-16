@@ -1,0 +1,75 @@
+{
+  "properties": {
+    "name": {
+      "title": "Name",
+      "type": "string"
+    },
+    "recipeIngredients": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Recipeingredients",
+      "type": "array"
+    },
+    "recipeYield": {
+      "title": "Recipeyield",
+      "type": "string"
+    },
+    "recipeInstructions": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Recipeinstructions",
+      "type": "array"
+    },
+    "prepTime": {
+      "title": "Preptime",
+      "type": "integer"
+    },
+    "cookTime": {
+      "title": "Cooktime",
+      "type": "integer"
+    },
+    "description": {
+      "title": "Description",
+      "type": "string"
+    },
+    "image": {
+      "title": "Image",
+      "type": "string"
+    },
+    "recipeCategory": {
+      "title": "Recipecategory",
+      "type": "string"
+    },
+    "recipeCuisine": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Recipecuisine",
+      "type": "array"
+    },
+    "keywords": {
+      "items": {
+        "type": "string"
+      },
+      "title": "Keywords",
+      "type": "array"
+    }
+  },
+  "required": [
+    "name",
+    "recipeIngredients",
+    "recipeYield",
+    "recipeInstructions",
+    "prepTime",
+    "cookTime",
+    "description",
+    "image",
+    "recipeCategory",
+    "recipeCuisine",
+    "keywords"
+  ],
+  "title": "Recipe",
+  "type": "object"
+}

@@ -1,0 +1,14 @@
+{
+  "familyName": "Desruisseaux",
+  "givenName": "Pierre",
+  "alternateName": "Le Fou de la Marmite",
+  "birthDate": "1985-08-22",
+  "gender": "Male Person",
+  "description": "Pierre Desruisseaux, a.k.a Le Fou de la Marmite (The Mad Pot of the Stove), is a chef from Marseille, France. Born into a family of passionate cooks and restaurateurs, Pierre grew up surrounded by the aromas of traditional Proven\u00e7al cuisine. After studying hotel management in Paris, he worked his way up through some of the top restaurants in France before opening his own bistro, Le Fou de la Marmite. His dishes blend classic French flavors with a modern twist and an emphasis on local, seasonal ingredients.",
+  "homeLocation": "Marseille",
+  "image": "A portrait photo of Pierre Desruisseaux, wearing a white apron and toque, standing in front of his bistro, with a large pot of marmite (French mustard) simmering behind him.",
+  "prefCuisine": [
+    "French",
+    "Proven\u00e7al"
+  ]
+}

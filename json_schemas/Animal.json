@@ -1,0 +1,28 @@
+{
+  "properties": {
+    "name": {
+      "title": "Name",
+      "type": "string"
+    },
+    "binomial_name": {
+      "title": "Binomial Name",
+      "type": "string"
+    },
+    "conservation_status": {
+      "title": "Conservation Status",
+      "type": "string"
+    },
+    "description": {
+      "title": "Description",
+      "type": "string"
+    }
+  },
+  "required": [
+    "name",
+    "binomial_name",
+    "conservation_status",
+    "description"
+  ],
+  "title": "Animal",
+  "type": "object"
+}

@@ -1,0 +1,14 @@
+{
+  "familyName": "LeFleur",
+  "givenName": "Pierre-Luc",
+  "alternateName": "The Saucier",
+  "birthDate": "1995-03-12",
+  "gender": "Male",
+  "description": "A culinary virtuoso from the south of France, Pierre-Luc LeFleur is a master of traditional Proven\u00e7al cuisine with a modern twist. Born and raised in the picturesque town of Cassis, he honed his skills in some of Marseille's top kitchens before opening his own bistro, Le Fleur de Sel. His passion for using locally sourced ingredients and innovative techniques has earned him numerous accolades and a loyal following among foodies worldwide.",
+  "homeLocation": "Cassis, France",
+  "image": "Pierre-Luc LeFleur standing in front of his bistro, wearing a white apron and toasting to the success with one of his signature sauces.",
+  "prefCuisine": [
+    "French",
+    "Bistronomy"
+  ]
+}
