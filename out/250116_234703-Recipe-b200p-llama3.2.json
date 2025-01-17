@@ -1,0 +1,43 @@
+{
+  "id_chef_creator": "Rahul Patel",
+  "name": "Bhindi Masala",
+  "recipeIngredients": [
+    "1 cup of bhindi (okra) ",
+    "2 medium-sized onions, chopped ",
+    "3 cloves of garlic, minced ",
+    "2 tablespoons of ginger paste",
+    "2 teaspoons of cumin seeds",
+    "1 teaspoon of coriander powder",
+    "1/2 teaspoon turmeric powder",
+    "1/2 teaspoon red chili powder",
+    "1 can (14 oz) diced tomatoes",
+    "1 cup of vegetable oil",
+    "Salt to taste",
+    "Fresh cilantro for garnish"
+  ],
+  "recipeYield": "8-10 servings",
+  "recipeInstructions": [
+    "Heat oil in a pan over medium heat. Add cumin seeds and let them sizzle for a few seconds.",
+    "Add chopped onions and saut\u00e9 until they turn golden brown.",
+    "Now add minced garlic and ginger paste and saut\u00e9 for another minute.",
+    "Add the turmeric, red chili powder, and coriander powder. Mix well.",
+    "Stir in the can of diced tomatoes and bring to a boil.",
+    "Reduce heat to low and let it simmer for 20 minutes or until the okra is tender.",
+    "Season with salt to taste.",
+    "Garnish with fresh cilantro.",
+    "Serve hot with steaming basmati rice."
+  ],
+  "prepTime": 30,
+  "cookTime": 25,
+  "description": "Bhindi Masala is a classic North Indian dish made by saut\u00e9ing the okra in spices and served over steaming basmati rice. This recipe showcases the flavors of India with its blend of spices and herbs.",
+  "image": "A steaming plate of Bhindi Masala garnished with fresh cilantro and served with a side of basmati rice.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": [
+    "Indian"
+  ],
+  "keywords": [
+    "Spicy",
+    "Vegetarian",
+    "Quick"
+  ]
+}

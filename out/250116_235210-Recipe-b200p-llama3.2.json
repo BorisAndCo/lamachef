@@ -1,0 +1,47 @@
+{
+  "id_chef_creator": "Maurice Lahire",
+  "name": "B'stilla aux Fruits et Noix",
+  "recipeIngredients": [
+    "1 sheet of puff pastry, thawed (1/4 oz)",
+    "1 cup mixed dried fruits (cranberries, raisins, cherries)",
+    "1/2 cup chopped almonds",
+    "1/2 cup chopped walnuts",
+    "1/4 cup granulated sugar",
+    "1 tsp ground cinnamon",
+    "1/4 tsp ground ginger",
+    "1/4 tsp ground cumin",
+    "1/4 tsp salt",
+    "2 tbsp unsalted butter, melted",
+    "1 egg, beaten (for egg wash)",
+    "Confectioners' sugar, for dusting"
+  ],
+  "recipeYield": "8-10 servings",
+  "recipeInstructions": [
+    "Preheat the oven to 400\u00b0F (200\u00b0C).",
+    "Roll out the puff pastry on a lightly floured surface to a thickness of about 1/8 inch.",
+    "In a bowl, mix together the dried fruits, almonds, walnuts, sugar, cinnamon, ginger, and cumin.",
+    "Transfer the fruit mixture to one half of the pastry, leaving a 1-inch border around the edges.",
+    "Brush the edges with the melted butter.",
+    "Fold the other half of the pastry over the filling, pressing gently to seal.",
+    "Use a knife or pastry brush to create a decorative edge.",
+    "Place the b'stilla on a baking sheet lined with parchment paper.",
+    "Brush the top with the beaten egg for a golden glaze.",
+    "Bake for 25-30 minutes, or until golden brown.",
+    "Dust with confectioners' sugar before serving."
+  ],
+  "prepTime": 30,
+  "cookTime": 25,
+  "description": "A twist on the classic Moroccan savory tart, this sweet b'stilla is filled with a mixture of dried fruits and nuts, perfect for dessert or snack time.",
+  "image": "Bstilla aux Fruits et Noix.jpg",
+  "recipeCategory": "dessert, snack",
+  "recipeCuisine": [
+    "Moroccan"
+  ],
+  "keywords": [
+    "sweet",
+    "fruity",
+    "nutty",
+    "easy",
+    "vegetarian"
+  ]
+}

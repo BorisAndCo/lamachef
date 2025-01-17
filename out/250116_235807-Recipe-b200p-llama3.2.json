@@ -1,0 +1,43 @@
+{
+  "id_chef_creator": "Mei Liu",
+  "name": "Spicy Sichuan Kung Pao Chicken with Wonton Noodles",
+  "recipeIngredients": [
+    "1 lb boneless chicken breast or thighs, cut into bite-sized pieces (450g)",
+    "2 tablespoons vegetable oil (30ml)",
+    "3 cloves garlic, minced (15g)",
+    "1 small onion, diced (115g)",
+    "1/4 cup roasted peanuts (60g)",
+    "1/4 cup soy sauce (60ml)",
+    "2 tablespoons Shaoxing wine (30ml)",
+    "2 tablespoons cornstarch",
+    "1 tablespoon Sichuan peppercorn paste",
+    "1 teaspoon sesame oil",
+    "Salt and pepper, to taste",
+    "8 oz wonton noodles (225g)",
+    "Scallions, chopped (for garnish)"
+  ],
+  "recipeYield": "4-6 servings",
+  "recipeInstructions": [
+    "Heat the vegetable oil in a wok or large skillet over medium-high heat.",
+    "Add the chicken and cook until browned and cooked through, about 5-7 minutes. Remove from the wok and set aside.",
+    "In the same wok, add more oil if necessary, then saut\u00e9 the garlic, onion, peanuts, and Sichuan peppercorn paste until fragrant.",
+    "Add the soy sauce, Shaoxing wine, and cornstarch mixture; stir to combine. Bring to a boil, then reduce heat to medium-low and simmer for 2-3 minutes, or until the sauce has thickened.",
+    "Return the chicken to the wok and stir in the sesame oil. Cook for an additional minute.",
+    "Cook the wonton noodles according to package instructions. Serve the Kung Pao chicken on top of the noodles, garnished with chopped scallions."
+  ],
+  "prepTime": 30,
+  "cookTime": 20,
+  "description": "A spicy and savory Sichuan dish that combines chicken, peanuts, garlic, and chili peppers in a bold sauce, served atop crispy wonton noodles.",
+  "image": "A photo of the finished dish, with the Kung Pao chicken on top of a bed of steaming hot wonton noodles, garnished with chopped scallions.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": [
+    "Chinese",
+    "Sichuan"
+  ],
+  "keywords": [
+    "Spicy",
+    "Sichuan",
+    "Peanuts",
+    "Wonton noodles"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "familyName": "Kaur",
+  "givenName": "Ranjit",
+  "alternateName": "The Spice King",
+  "birthDate": "1990-04-12",
+  "gender": "Male",
+  "description": "A self-proclaimed spice aficionado from the bustling streets of Mumbai, Ranjit Kaur has earned a reputation for his bold flavors and intricate spice blends. Born into a family of modest means, he learned the art of cooking from his mother, who would often experiment with scraps to create delicious meals. After culinary school, he worked under several renowned chefs before opening his own restaurant, where he showcases his unique take on traditional Indian cuisine.",
+  "homeLocation": "Mumbai, India",
+  "image": "A photo of Ranjit Kaur in his bustling kitchen, surrounded by spices and ingredients.",
+  "prefCuisine": [
+    "Indian",
+    "Street Food"
+  ]
+}

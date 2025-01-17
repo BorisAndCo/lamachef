@@ -1,0 +1,36 @@
+{
+  "id_chef_creator": "L\u00e9on Pantillon",
+  "name": "Tournedos Rossini",
+  "recipeIngredients": [
+    "1 (10 oz) filet mignon",
+    "2 tablespoons of black truffle butter",
+    "4 ounces seared foie gras",
+    "1/4 cup Madeira wine reduction",
+    "Salt and pepper",
+    "Fresh thyme leaves for garnish"
+  ],
+  "recipeYield": "Serves 2-3 people",
+  "recipeInstructions": [
+    "Preheat oven to 400\u00b0F (200\u00b0C). Season the filet mignon with salt, pepper, and a pinch of thyme. Sear it in an oven-safe skillet until browned on all sides.",
+    "Transfer the skillet to the preheated oven and cook for 8-10 minutes or until the desired doneness is achieved. Remove from heat.",
+    "Meanwhile, toast the brioche slices and spread with seared foie gras. Drizzle with Madeira wine reduction.",
+    "Slice the filet mignon against the grain into thin strips and place on top of the toasted brioche slice.",
+    "Spread a layer of black truffle butter on top of the filet, followed by another slice of toasted brioche topped with seared foie gras.",
+    "Garnish with fresh thyme leaves and serve immediately."
+  ],
+  "prepTime": 45,
+  "cookTime": 20,
+  "description": "A decadent Tournedos Rossini dish that combines the finest French ingredients in one exquisite meal. The filet mignon is paired with seared foie gras, Madeira wine reduction, and black truffle butter.",
+  "image": "A beautifully plated Tournedos Rossini with a slice of filet mignon on top of toasted brioche topped with seared foie gras and black truffle butter.",
+  "recipeCategory": "main course",
+  "recipeCuisine": [
+    "French"
+  ],
+  "keywords": [
+    "Decadent",
+    "Luxurious",
+    "Filet Mignon",
+    "Foie Gras",
+    "Truffle"
+  ]
+}

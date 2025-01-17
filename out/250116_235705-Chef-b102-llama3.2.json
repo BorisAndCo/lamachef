@@ -1,0 +1,14 @@
+{
+  "familyName": "Liu",
+  "givenName": "Mei",
+  "alternateName": "Miao Miao",
+  "birthDate": "1985-02-15",
+  "gender": "Female",
+  "description": "Born and raised in the vibrant city of Shanghai, Mei Liu is a culinary sensation known for her bold flavors and techniques. A pioneer of modern Chinese cuisine, she has gained international recognition for her innovative dishes that blend traditional Sichuan spices with contemporary twists.",
+  "homeLocation": "Shanghai, China",
+  "image": "Mei-Liu-in-her-kitchen.jpg",
+  "prefCuisine": [
+    "Chinese",
+    "Sichuan"
+  ]
+}

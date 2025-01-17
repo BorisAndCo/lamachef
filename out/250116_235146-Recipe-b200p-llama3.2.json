@@ -1,0 +1,55 @@
+{
+  "id_chef_creator": "Maurice Lahire",
+  "name": "B'stilla \u00e0 l'Aubergine",
+  "recipeIngredients": [
+    "2 large aubergines (about 1.5 lbs)",
+    "1/4 cup olive oil",
+    "2 medium onions, finely chopped (about 1 1/2 cups)",
+    "1 teaspoon ground cumin",
+    "1 teaspoon ground coriander",
+    "1/2 teaspoon ground cinnamon",
+    "1/2 teaspoon ground turmeric",
+    "1/2 teaspoon paprika",
+    "1/4 teaspoon cayenne pepper",
+    "1/2 teaspoon salt",
+    "1/4 teaspoon black pepper",
+    "1 cup puff pastry, thawed",
+    "1 pound lamb or beef (about 8 oz), finely chopped",
+    "2 cloves garlic, minced (about 1 tablespoon)",
+    "1/4 cup chopped fresh parsley",
+    "1/4 cup chopped fresh cilantro",
+    "1/4 cup crumbled feta cheese (optional)"
+  ],
+  "recipeYield": "6-8 servings",
+  "recipeInstructions": [
+    "Preheat the oven to 400\u00b0F (200\u00b0C).",
+    "Cut the aubergines in half lengthwise and brush with olive oil.",
+    "Roast the aubergines on a baking sheet for about 30 minutes, or until tender.",
+    "While the aubergines are roasting, heat the olive oil in a large skillet over medium-high heat.",
+    "Add the onions, cumin, coriander, cinnamon, turmeric, paprika, and cayenne pepper to the skillet. Cook for about 5-7 minutes, or until the onions are lightly browned.",
+    "Stir in the lamb or beef, garlic, parsley, cilantro, and feta cheese (if using).",
+    "Roll out the puff pastry on a floured surface to a thickness of about 1/8 inch. Brush the edges of the pastry with water.",
+    "Place the roasted aubergines on one half of the pastry, leaving a 1-inch border around them.",
+    "Spoon the lamb or beef mixture over the aubergines.",
+    "Brush the edges of the pastry with more water and fold the other half of the pastry over the filling to form a triangle.",
+    "Press the edges together to seal the b'stilla and use a knife to cut a few slits in the top for steam to escape.",
+    "Bake the b'stilla on a baking sheet for about 25-30 minutes, or until golden brown.",
+    "Let cool slightly before slicing and serving."
+  ],
+  "prepTime": 45,
+  "cookTime": 40,
+  "description": "This Moroccan-inspired savory pie is filled with roasted eggplant, lamb or beef, and spices, all wrapped in flaky puff pastry. The result is a rich, satisfying dish that combines the flavors of France and Morocco.",
+  "image": "A golden-brown b'stilla with a flaky crust and a slice cut out to reveal the savory filling.",
+  "recipeCategory": "main course",
+  "recipeCuisine": [
+    "French",
+    "Moroccan"
+  ],
+  "keywords": [
+    "savory pie",
+    "eggplant",
+    "lamb or beef",
+    "puff pastry",
+    "Moroccan cuisine"
+  ]
+}

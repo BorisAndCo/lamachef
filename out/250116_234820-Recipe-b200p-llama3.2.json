@@ -1,0 +1,40 @@
+{
+  "id_chef_creator": "Ranjit Kaur",
+  "name": "Bengali-Style Shorshe Jhol with Crispy Papads",
+  "recipeIngredients": [
+    "2 cups of mustard oil",
+    "1 cup of Bengali-style mustard paste (shorshe)",
+    "4-6 green chilies, chopped",
+    "1 tablespoon of ghee",
+    "1 small onion, chopped",
+    "1 teaspoon of ground cumin",
+    "1 teaspoon of ground coriander",
+    "1/2 teaspoon of turmeric powder",
+    "1/2 teaspoon of red chili powder",
+    "Salt to taste",
+    "4-6 Bengali-style papads (thin, crisp, and fried)",
+    " Fresh cilantro leaves for garnish"
+  ],
+  "recipeYield": "A generous serving size",
+  "recipeInstructions": [
+    "In a large pan, heat the mustard oil over medium heat. Add the chopped green chilies and saut\u00e9 until fragrant.",
+    "Add the Bengali-style mustard paste and saut\u00e9 for about 2-3 minutes, or until it darkens in color.",
+    "Add the ghee, chopped onion, ground cumin, ground coriander, turmeric powder, red chili powder, and salt. Stir well to combine.",
+    "Bring the mixture to a gentle simmer and cook for about 10-12 minutes, stirring occasionally, until the sauce thickens slightly.",
+    "While the sauce is cooking, fry the Bengali-style papads in hot oil until crispy. Drain on paper towels.",
+    "Garnish with fresh cilantro leaves and serve the shorshe jhol with crispy papads alongside."
+  ],
+  "prepTime": 30,
+  "cookTime": 20,
+  "description": "Bengali-Style Shorshe Jhol is a spicy, tangy mustard-based soup originating from Bengal. It's a favorite at special occasions in Bengali households. The crispy papads add a delightful crunch to the dish.",
+  "image": "A steaming hot bowl of shorshe jhol with crispy papads on the side",
+  "recipeCategory": "appetizer",
+  "recipeCuisine": [
+    "Bengali"
+  ],
+  "keywords": [
+    "spicy",
+    "mustard-based",
+    "crispy papads"
+  ]
+}

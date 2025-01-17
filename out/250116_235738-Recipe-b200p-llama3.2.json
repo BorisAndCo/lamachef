@@ -1,0 +1,38 @@
+{
+  "id_chef_creator": "Mei Liu",
+  "name": "Double-Fried Pork Belly with Pickled Mustard Greens and Chili Oil",
+  "recipeIngredients": [
+    "1 kg pork belly",
+    "2 cups pickling liquid (vinegar, sugar, salt, chili oil)",
+    "1 bunch mustard greens",
+    "2 tablespoons vegetable oil",
+    "1 teaspoon five-spice powder",
+    "1/4 cup chili oil",
+    "2 cloves garlic, minced",
+    "1 tablespoon soy sauce",
+    "Salt and pepper to taste"
+  ],
+  "recipeYield": "Serves 4-6 people",
+  "recipeInstructions": [
+    "Step 1: Cure the pork belly with a mixture of salt, sugar, and five-spice powder for 24 hours.",
+    "Step 2: Rinse the pork belly under cold water and pat dry.",
+    "Step 3: Double-fry the pork belly by first deep-frying it at 160\u00b0C (320\u00b0F) for 10 minutes, then finishing it in a pan with vegetable oil at 200\u00b0C (400\u00b0F) for an additional 5-7 minutes.",
+    "Step 4: Prepare the pickling liquid and let the mustard greens soak for at least 30 minutes.",
+    "Step 5: Slice the pork belly into thin strips and serve with the pickled mustard greens, chili oil, garlic, and soy sauce."
+  ],
+  "prepTime": 1,
+  "cookTime": 25,
+  "description": "A Sichuan-inspired dish that combines crispy pork belly with tangy pickled mustard greens and spicy chili oil. This recipe is a celebration of bold flavors and textures.",
+  "image": "Double-Fried Pork Belly with Pickled Mustard Greens and Chili Oil",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": [
+    "Sichuan",
+    "Chinese"
+  ],
+  "keywords": [
+    "authentic",
+    "spicy",
+    "crispy",
+    "flavorful"
+  ]
+}

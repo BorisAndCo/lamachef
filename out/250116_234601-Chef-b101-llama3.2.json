@@ -1,0 +1,14 @@
+{
+  "familyName": "Patel",
+  "givenName": "Rahul",
+  "alternateName": "The Spice King",
+  "birthDate": "1992-08-12",
+  "gender": "Male",
+  "description": "Born and raised in Mumbai, India, Chef Rahul Patel is a spice master and culinary innovator. He hails from a family of street food vendors and learned the art of balancing flavors from his grandfather, a renowned street food chef. With his passion for creating unique fusion dishes, Rahul has gained international recognition for his bold flavor profiles and commitment to using only the freshest ingredients.",
+  "homeLocation": "Mumbai, India",
+  "image": "A photo of Chef Patel standing in front of his Mumbai-based street food stall, with a steaming hot plate of his signature 'Patel's Perfect Pani Puri' visible on the counter.",
+  "prefCuisine": [
+    "Street Food",
+    "Indian"
+  ]
+}

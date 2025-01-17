@@ -1,0 +1,45 @@
+{
+  "id_chef_creator": "Ranjit Kaur Kaur",
+  "name": "Saag Aloo Mattar",
+  "recipeIngredients": [
+    "1 kg potatoes",
+    "250g spinach",
+    "200g kidney beans",
+    "50g ghee",
+    "20g garam masala powder",
+    "10g cumin powder",
+    "5g turmeric powder",
+    "Salt to taste",
+    "200g paneer cubes (optional)",
+    "Fresh cilantro for garnish"
+  ],
+  "recipeYield": "6-8 servings",
+  "recipeInstructions": [
+    "Wash and chop the potatoes into bite-sized pieces.",
+    "In a large pan, heat ghee over medium heat.",
+    "Add cumin powder, turmeric powder, and saut\u00e9 until fragrant.",
+    "Add spinach leaves, kidney beans, salt, and stir well.",
+    "Add the chopped potatoes and simmer for 15-20 minutes or until they are cooked through.",
+    "Garnish with paneer cubes (if using) and fresh cilantro.",
+    "Serve hot with naan or rice."
+  ],
+  "prepTime": 30,
+  "cookTime": 25,
+  "description": "A classic Punjabi dish made with spinach, kidney beans, potatoes, and paneer, all simmered in a flavorful tomato-based sauce. This hearty and comforting recipe is a staple of North Indian cuisine.",
+  "image": "A photo of the finished Saag Aloo Mattar with a dollop of ghee on top.",
+  "recipeCategory": "Main Course",
+  "recipeCuisine": [
+    "Punjabi",
+    "Indian"
+  ],
+  "keywords": [
+    "Hearty",
+    "Comforting",
+    "Punjabi",
+    "Spinach",
+    "Kidney beans",
+    "Potatoes",
+    "Paneer",
+    "Flavorful sauce"
+  ]
+}

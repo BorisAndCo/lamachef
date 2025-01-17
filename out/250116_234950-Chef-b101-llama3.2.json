@@ -1,0 +1,14 @@
+{
+  "familyName": "Kaur",
+  "givenName": "Ranjit Kaur",
+  "alternateName": "The Spice Queen",
+  "birthDate": "1985-03-12",
+  "gender": "Female",
+  "description": "Chef Ranjit Kaur is a celebrated Punjabi chef and food writer known for her bold flavors and family secrets. Born in the bustling streets of Amritsar, India, she learned to cook from her mother at a young age. After moving to London, she opened her own restaurant, where she serves modern Punjabi cuisine with a twist.",
+  "homeLocation": "London",
+  "image": "Chef Kaur in her kitchen, surrounded by spices and ingredients.",
+  "prefCuisine": [
+    "Punjabi",
+    "Indian"
+  ]
+}

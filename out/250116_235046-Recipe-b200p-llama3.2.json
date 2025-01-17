@@ -1,0 +1,45 @@
+{
+  "id_chef_creator": "Ranjit Kaur Kaur",
+  "name": "Sarson Ka Saag with Makki Ki Roti",
+  "recipeIngredients": [
+    "2 bunches of mustard greens (sarson)",
+    "1 cup of corn kernels (makki)",
+    "1/4 cup of ghee or oil",
+    "1 small onion, chopped",
+    "2-3 cloves of garlic, minced",
+    "1 teaspoon ground cumin",
+    "1 teaspoon ground coriander",
+    "1/2 teaspoon red chili powder",
+    "Salt to taste",
+    "4-6 cornmeal balls (makki ki roti)",
+    "Lime wedges for garnish"
+  ],
+  "recipeYield": "# of servings produced from this recipe = 4",
+  "recipeInstructions": [
+    "Rinse the mustard greens in cold water, and remove any stems. Chop them into large pieces.",
+    "Heat ghee or oil in a pan over medium heat.",
+    "Add the chopped onion and saut\u00e9 until it's translucent.",
+    "Add the minced garlic and saut\u00e9 for another minute.",
+    "Add the ground cumin, ground coriander, and red chili powder. Saut\u00e9 for 1-2 minutes.",
+    "Add the mustard greens and a pinch of salt to taste. Stir well.",
+    "Simmer the mixture until it's soft and the flavors have melded together.",
+    "Meanwhile, prepare the makki ki roti by mixing cornmeal with water to form a dough.",
+    "Roll out the dough into small balls and cook them in hot oil until they're golden brown.",
+    "Serve the sarson ka saag with makki ki roti and garnish with lime wedges."
+  ],
+  "prepTime": 30,
+  "cookTime": 20,
+  "description": "Sarson Ka Saag is a traditional Punjabi dish made from mustard greens. It's often served with Makki Ki Roti, which is a type of cornbread.",
+  "image": "A photo of the Sarson Ka Saag with Makki Ki Roti on a wooden plate, garnished with lime wedges and a sprinkle of cumin powder.",
+  "recipeCategory": "main course",
+  "recipeCuisine": [
+    "Punjabi",
+    "Indian"
+  ],
+  "keywords": [
+    "traditional",
+    "authentic",
+    "hearty",
+    " Punjabi cuisine"
+  ]
+}

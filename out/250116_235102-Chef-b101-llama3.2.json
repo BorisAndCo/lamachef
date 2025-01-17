@@ -1,0 +1,14 @@
+{
+  "familyName": "Lahire",
+  "givenName": "Maurice",
+  "alternateName": "Le Saucier",
+  "birthDate": "1990-04-12",
+  "gender": "Male",
+  "description": "Born and raised in the bustling streets of Marrakech, Morocco, Maurice Lahire is a master of blending traditional Berber flavors with modern French techniques. His restaurant, Le Jardin des Sens, has become a sensation among foodies worldwide for its innovative take on Moroccan cuisine.",
+  "homeLocation": "Marrakech, Morocco",
+  "image": "A photo of chef Maurice Lahire in his kitchen, surrounded by vibrant spices and fresh produce.",
+  "prefCuisine": [
+    "French",
+    "Moroccan"
+  ]
+}

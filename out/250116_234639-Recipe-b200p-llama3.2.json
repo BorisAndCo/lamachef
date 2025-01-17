@@ -1,0 +1,42 @@
+{
+  "id_chef_creator": "Rahul Patel",
+  "name": "Mumbai Street Food Frenzy: Vada Pav",
+  "recipeIngredients": [
+    "2 cups cooked split red lentils (masoor dal)",
+    "1/2 cup gram flour",
+    "1/4 cup chopped fresh cilantro",
+    "1/4 cup grated paneer cheese",
+    "1 tablespoon ghee or vegetable oil",
+    "1 small onion, finely chopped",
+    "1 teaspoon cumin seeds",
+    "1 teaspoon coriander powder",
+    "1 teaspoon amchur powder",
+    "Salt, to taste",
+    "2 tablespoons tamarind chutney",
+    "Pav bread (7-8 pieces)",
+    "Mint-cilantro chutney (for serving)",
+    "Tamarind-date chutney (for serving)"
+  ],
+  "recipeYield": "For 4 servings",
+  "recipeInstructions": [
+    "In a large bowl, mash the cooked lentils using a fork or a potato masher until they're slightly smooth. Add the gram flour, chopped cilantro, grated paneer cheese, ghee or oil, onion, cumin seeds, coriander powder, amchur powder, and salt. Mix well until everything is combined.",
+    "Divide the mixture into 8 equal portions. Shape each portion into a small cylinder. Heat enough oil in a deep frying pan over medium heat to fry the vadas.",
+    "When the oil is hot, gently place the vada cylinders in the oil and fry them until they're golden brown, about 3-4 minutes on each side.",
+    "Drain the vadas on paper towels. Serve hot with tamarind chutney and mint-cilantro chutney.",
+    "Cut the pav bread into half horizontally to create 'pav' buns. Toast or grill the bread lightly until it's crispy."
+  ],
+  "prepTime": 45,
+  "cookTime": 30,
+  "description": "A classic Mumbai street food snack that combines crispy fried lentil patties (vada) with soft, crunchy pav bread and a tangy tamarind chutney. This recipe is inspired by the flavors of my childhood in Mumbai.",
+  "image": "A steaming plate of Vada Pav, garnished with fresh cilantro and served on a wooden board with a side of mint-cilantro chutney.",
+  "recipeCategory": "Appetizer",
+  "recipeCuisine": [
+    "Indian",
+    "Street Food"
+  ],
+  "keywords": [
+    "easy",
+    "crispy",
+    "tangy"
+  ]
+}
