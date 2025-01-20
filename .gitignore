@@ -1,5 +1,6 @@
 # 
 _dev/
+out/
 
 # Ollama
 .DS_Store

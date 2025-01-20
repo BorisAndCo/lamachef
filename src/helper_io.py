@@ -5,6 +5,8 @@ from typing import Any, Dict, List, Optional, Type, Union
 from datetime import datetime
 import json
 
+import uuid
+
 import logging
 logger = logging.getLogger(__name__)
 
@@ -58,7 +60,7 @@ def load_prompt(directory_prompt: str|Path, schema_model: BaseModel) -> str:
 
 # Structured Output
 def save_structured_output(output: dict, directory_outputs: str|Path, prompt_name: str, llm_model: str) -> None:
-    filename = f"{datetime.now().strftime(format='%Y%m%d_%H%M%S')[2:]}-{prompt_name}-{llm_model}.json"
+    filename = f"{datetime.now().strftime(format='%Y%m%d_%H%M%S')[2:]}_{str(uuid.uuid4())[:3]}-{prompt_name}-{llm_model}.json"
     filepath = Path(directory_outputs, filename)
     logger.info(f"Saving output {filepath}")
 
